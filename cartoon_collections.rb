@@ -14,6 +14,6 @@ end
 
 def find_the_cheese(lactose)
   cheese_types = ["cheddar", "gouda", "camembert"]
-  lactose.include?(cheese_types)
+  lactose.include?
   
 end
