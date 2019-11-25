@@ -17,4 +17,5 @@ def find_the_cheese(ingredients)
   ingredients.include?("cheddar")
   if true 
     puts "cheddar"
+  end 
 end
