@@ -9,7 +9,8 @@ end
 
 def long_planeteer_calls(short_words)
   short_words.select{|sw| sw.length > 4}
-  return true 
+  if sw.length < 4
+    return false 
 end
 
 def find_the_cheese# code an argument here
