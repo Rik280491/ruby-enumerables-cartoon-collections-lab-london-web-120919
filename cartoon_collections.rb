@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarf)
-  while i < dwarf.length do 
+  dwarf.each_with_index{|d 
    
     
    
