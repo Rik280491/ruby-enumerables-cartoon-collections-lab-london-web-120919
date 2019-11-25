@@ -18,5 +18,4 @@ def find_the_cheese(ingredients)
     cheese_types == "cheddar" || cheese_types == "gouda" || cheese_types == "camembert"
   end
 end
-  end 
-end
+  
