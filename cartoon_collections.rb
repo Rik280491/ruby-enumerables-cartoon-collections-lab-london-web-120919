@@ -1,8 +1,7 @@
 def roll_call_dwarves(dwarf)
-  i = 0
   while i < dwarf.length do 
-    dwarf.map{|d| puts i. d}
-    i += 1 
+   
+    
    
   
   
